@@ -1,2 +1,2 @@
-# Jupyter-Projects
-Compiling all practice projects in this rep
+# Projects
+Adding practice statistical analysis projects as I go
